@@ -12,5 +12,7 @@ header{
 }
 
 section{
-    background-color: yellow
+    background-color: yellow;
+    padding-top: 80px
+    padding-bottom:80px
 }
